@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Window and Open dialog", "W
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Your First Windows Program", "Your First Windows Program\Your First Windows Program.vcxproj", "{53F03311-7946-4698-AEE1-E9A71003DA68}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MainWindow Test", "MainWindow Test\MainWindow Test.vcxproj", "{40C9A02C-39AD-475F-B740-21E4ADB68AB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -33,6 +35,10 @@ Global
 		{53F03311-7946-4698-AEE1-E9A71003DA68}.Debug|Win32.Build.0 = Debug|Win32
 		{53F03311-7946-4698-AEE1-E9A71003DA68}.Release|Win32.ActiveCfg = Release|Win32
 		{53F03311-7946-4698-AEE1-E9A71003DA68}.Release|Win32.Build.0 = Release|Win32
+		{40C9A02C-39AD-475F-B740-21E4ADB68AB8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40C9A02C-39AD-475F-B740-21E4ADB68AB8}.Debug|Win32.Build.0 = Debug|Win32
+		{40C9A02C-39AD-475F-B740-21E4ADB68AB8}.Release|Win32.ActiveCfg = Release|Win32
+		{40C9A02C-39AD-475F-B740-21E4ADB68AB8}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
